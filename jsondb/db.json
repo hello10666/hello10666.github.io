@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "kangkang",
+      "phone": "333-666",
+      "email": "kangkang@gmail.com",
+      "id": 1,
+      "age": 28,
+      "companyId": 1
+    },
+    {
+      "name": "jack",
+      "phone": "333-666",
+      "email": "jack@gmail.com",
+      "id": 2,
+      "age": 33,
+      "companyId": 2
+    },
+    {
+      "name": "666",
+      "phone": "333-666",
+      "email": "mary@gmail.com",
+      "id": 3,
+      "age": 30,
+      "companyId": 3
+    },
+    {
+      "name": "alice",
+      "phone": "333-666",
+      "email": "alice@gmail.com",
+      "id": 4,
+      "age": 30,
+      "companyId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft"
+    },
+    {
+      "id": 3,
+      "name": "Gogle",
+      "description": "Gogle"
+    }
+  ]
+}

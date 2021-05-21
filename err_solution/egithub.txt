@@ -1,0 +1,6 @@
+1
+错误 failed to receive handshake ssl/tls connection failed github
+解决方法 CD到对应的文件夹 输入git config -- global http.sslBackend "openssl"
+2
+Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054 错误解决
+git config --global http.sslVerify "false"
